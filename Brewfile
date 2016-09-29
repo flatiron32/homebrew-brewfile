@@ -11,6 +11,7 @@ tap 'caskroom/cask'
 
 # Packages
 brew 'git'
+brew 'openssl'
 brew 'python'
 brew 'tree'
 brew 'wget'
