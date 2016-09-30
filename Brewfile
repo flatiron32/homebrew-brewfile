@@ -13,6 +13,7 @@ tap 'caskroom/cask'
 brew 'git'
 brew 'openssl'
 brew 'python'
+brew 'python3'
 brew 'tree'
 brew 'wget'
 
