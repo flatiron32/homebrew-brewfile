@@ -35,6 +35,7 @@ cask 'osxfuse'
 cask 'postman'
 cask 'slack'
 cask 'spectacle'
+cask 'steam'
 cask 'sublime'
 cask 'tunnelblick'
 #cask 'veracrypt' # see issue below
