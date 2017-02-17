@@ -36,7 +36,7 @@ cask 'postman'
 cask 'slack'
 cask 'spectacle'
 cask 'steam'
-cask 'sublime'
+cask 'sublime-text'
 cask 'tunnelblick'
 #cask 'veracrypt' # see issue below
 cask 'vlc'
