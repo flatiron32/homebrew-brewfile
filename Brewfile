@@ -10,6 +10,7 @@ tap 'homebrew/core'
 tap 'caskroom/cask'
 
 # Packages
+brew 'awscli'
 brew 'git'
 brew 'openssl'
 brew 'python'
