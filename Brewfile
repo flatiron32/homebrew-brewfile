@@ -38,7 +38,7 @@ cask 'spectacle'
 cask 'steam'
 cask 'sublime-text'
 cask 'tunnelblick'
-#cask 'veracrypt' # see issue below
+cask 'veracrypt' # see issue below
 cask 'vlc'
 
 # VERACRYPT issue https://github.com/caskroom/homebrew-cask/issues/20726
@@ -46,3 +46,4 @@ cask 'vlc'
 # -- run `open /usr/local/Caskroom/osxfuse/*/Install\ OSXFUSE*.pkg`
 # -- install with MacFUSE compatibility layer
 # -- run `brew cask install veracrypt`
+# Seems to be resolved as of 2017-02-17
