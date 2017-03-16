@@ -12,6 +12,7 @@ tap 'caskroom/cask'
 # Packages
 brew 'awscli'
 brew 'git'
+brew 'mas'
 brew 'openssl'
 brew 'python'
 brew 'python3'
