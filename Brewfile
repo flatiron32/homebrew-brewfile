@@ -17,6 +17,7 @@ brew 'openssl'
 brew 'python'
 brew 'python3'
 brew 'tree'
+brew 'xquartz'
 brew 'wget'
 
 # Apps
