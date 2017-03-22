@@ -19,6 +19,7 @@ brew 'python3'
 brew 'tree'
 brew 'xquartz'
 brew 'wget'
+brew 'wine'
 
 # Apps
 cask 'beardedspice'
