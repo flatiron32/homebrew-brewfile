@@ -1,5 +1,5 @@
 ########################################
-# Jody Lent
+# Jacob Tomaw
 # Brewfile for building a new Mac
 ########################################
 
@@ -10,40 +10,41 @@ tap 'homebrew/core'
 tap 'caskroom/cask'
 
 # Packages
-brew 'awscli'
-brew 'git'
-brew 'mas'
-brew 'openssl'
-brew 'python'
-brew 'python3'
-brew 'tree'
-brew 'xquartz'
-brew 'wget'
-brew 'wine'
+# brew 'awscli'
+# brew 'git'
+# brew 'mas'
+# brew 'openssl'
+# brew 'python'
+# brew 'python3'
+# brew 'tree'
+# brew 'xquartz'
+# brew 'wget'
+# brew 'wine'
 
 # Apps
-cask 'beardedspice'
+# cask 'beardedspice'
 cask 'caffeine'
-cask 'charles'
-cask 'docker'
+# cask 'charles'
+# cask 'docker'
 cask 'dropbox'
-cask 'firefox'
-cask 'flux'
+# cask 'firefox'
+# cask 'flux'
 cask 'google-chrome'
-cask 'hipchat'
-cask 'karabiner-elements'
-cask 'macdown'
-cask 'macid'
-cask 'macpass'
-cask 'osxfuse'
-cask 'postman'
+# cask 'hipchat'
+# cask 'karabiner-elements'
+cask 'lastpass'
+# cask 'macdown'
+# cask 'macid'
+# cask 'macpass'
+# cask 'osxfuse'
+# cask 'postman'
 cask 'slack'
-cask 'spectacle'
-cask 'steam'
-cask 'sublime-text'
-cask 'tunnelblick'
-cask 'veracrypt' # see issue below
-cask 'vlc'
+# cask 'spectacle'
+# cask 'steam'
+# cask 'sublime-text'
+# cask 'tunnelblick'
+# cask 'veracrypt' # see issue below
+# cask 'vlc'
 
 # VERACRYPT issue https://github.com/caskroom/homebrew-cask/issues/20726
 # Allow `brew bundle` to run (or just `brew cask install osxfuse`) and then:
