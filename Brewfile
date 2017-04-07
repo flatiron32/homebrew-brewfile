@@ -11,7 +11,8 @@ tap 'caskroom/cask'
 
 # Packages
 # brew 'awscli'
-# brew 'git'
+brew 'bash-completion'
+brew 'git'
 # brew 'mas'
 # brew 'openssl'
 # brew 'python'
