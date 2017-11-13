@@ -14,16 +14,16 @@ brew 'bash-completion'
 brew 'bash-git-prompt'
 brew 'chromedriver'
 brew 'git'
+brew 'jenv'
 brew 'tmux'
+brew 'screenresolution'
 
 # Apps
 cask 'caffeine'
 cask 'dropbox'
 cask 'google-chrome'
-cask 'jenv'
 cask 'karabiner-elements'
 cask 'lastpass'
 cask 'mysqlworkbench'
-cask 'screenresolution'
 cask 'slack'
 
