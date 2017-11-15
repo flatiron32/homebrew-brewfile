@@ -22,6 +22,7 @@ brew 'screenresolution'
 
 # Apps
 cask 'caffeine'
+cask 'dbeaver-community'
 cask 'dropbox'
 cask 'google-chrome'
 cask 'karabiner-elements'
