@@ -10,6 +10,7 @@ tap 'homebrew/core'
 tap 'caskroom/cask'
 
 # Packages
+brew 'awscli'
 brew 'bash-completion'
 brew 'bash-git-prompt'
 brew 'chromedriver'
