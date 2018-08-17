@@ -28,6 +28,4 @@ cask 'dropbox'
 cask 'google-chrome'
 cask 'karabiner-elements'
 cask 'lastpass'
-cask 'mysqlworkbench'
 cask 'slack'
-
