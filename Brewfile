@@ -28,10 +28,9 @@ brew 'thefuck'
 brew 'tldr'
 brew 'tmux'
 brew 'vim'
-brew 'virtualenv'
 
 # Apps
-cask 'brave'
+cask 'brave-browser'
 cask 'caffeine'
 cask 'coconutbattery'
 cask 'dbeaver-community'
