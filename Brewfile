@@ -7,7 +7,6 @@
 # Install Prereqs: Xcode, brew, cask and pip
 # cask is installed via tap, pip comes with brew's python install
 tap 'homebrew/core'
-tap 'caskroom/cask'
 
 # Packages
 brew 'aws-okta'
