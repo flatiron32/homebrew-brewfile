@@ -9,7 +9,6 @@
 tap 'homebrew/core'
 
 # Packages
-brew 'aws-okta'
 brew 'awscli'
 brew 'bash'
 brew 'brew-cask-completion'
@@ -40,7 +39,6 @@ brew 'zsh-autosuggestions'
 
 # Apps
 cask 'coconutbattery'
-cask 'dissenter-browser'
 cask 'dropbox'
 cask 'intellij-idea'
 cask 'iterm2'
@@ -48,4 +46,3 @@ cask 'karabiner-elements'
 cask 'pingplotter'
 cask 'skype'
 cask 'slack'
-cask 'zoomus'
