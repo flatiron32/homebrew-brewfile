@@ -37,6 +37,7 @@ brew 'zsh'
 brew 'zsh-autosuggestions'
 
 # Apps
+cask 'arc'
 cask 'coconutbattery'
 cask 'dropbox'
 cask 'intellij-idea'
