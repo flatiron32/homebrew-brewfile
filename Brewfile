@@ -6,7 +6,6 @@
 # Handled via Strap (https://github.com/MikeMcQuaid/strap):
 # Install Prereqs: Xcode, brew, cask and pip
 # cask is installed via tap, pip comes with brew's python install
-tap 'homebrew/core'
 
 # Packages
 brew 'awscli'
@@ -30,11 +29,13 @@ brew 'python'
 brew 'screenresolution'
 brew 'tldr'
 brew 'tmux'
+brew 'tuple'
 brew 'vim'
 brew 'watch'
 brew 'z'
 brew 'zsh'
 brew 'zsh-autosuggestions'
+brew 'zsh-syntax-highlighting'
 
 # Apps
 cask 'arc'
@@ -44,5 +45,4 @@ cask 'intellij-idea'
 cask 'iterm2'
 cask 'karabiner-elements'
 cask 'pingplotter'
-cask 'skype'
 cask 'slack'
