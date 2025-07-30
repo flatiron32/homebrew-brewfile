@@ -10,6 +10,7 @@
 # Packages
 brew 'awscli'
 brew 'bash'
+brew 'brave-browser'
 brew 'brew-cask-completion'
 brew 'csvkit'
 brew 'direnv'
