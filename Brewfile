@@ -29,7 +29,7 @@ brew "z"
 brew "zsh"
 brew "zsh-autosuggestions"
 brew "zsh-syntax-highlighting"
-brew "grainger/gdev/gdev"
+brew "grainger/gdev/gdev", link: false
 brew "hashicorp/tap/vault"
 brew "int128/kubelogin/kubelogin"
 cask "arc"
