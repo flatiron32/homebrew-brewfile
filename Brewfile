@@ -22,6 +22,7 @@ brew "k9s"
 brew "kubectx"
 brew "openjdk@17"
 brew "languagetool"
+brew "maven"
 brew "nvm"
 brew "openvpn", link: false
 brew "screenresolution"
